@@ -24,7 +24,7 @@ facebook:
   app_id: # Facebook app ID for Facebook insights
   publisher: # Facebook page URL or ID of the publishing entity
   admins: # Facebook user ID for domain insights linked to a personal account
-logo: /assets/img/logo.jpg # 博客logo，此处引用了路径为“/assets/img/logo.jpg”的图片，可修改
+logo: /assets/img/SingularityProof_Lede1300.gif # 博客logo，此处引用了路径为“/assets/img/logo.jpg”的图片，可修改
 social:
   links: # 其他链接
     - https://www.google.com
