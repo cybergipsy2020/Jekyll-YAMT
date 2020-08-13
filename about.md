@@ -1,6 +1,6 @@
 ---
-layout: default
-title: About
+layout: post
+title: 歡迎來到我的博客
 ---
+此處記載的是我的閒言碎語，作為儲存記憶的賽博角落。
 
-在这里添加个人介绍。
