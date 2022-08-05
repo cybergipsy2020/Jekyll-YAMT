@@ -1,7 +1,7 @@
 # Site settings
 title: 第四纪地层 # 博客名称
 description: "碎碎念 Blog"
-url:  "https://lanxinag-gua.github.io" # 博客地址
+url:  "https://lanxiang-gua.github.io/" # 博客地址
 baseurl: "lanxinag-gua.github.io/blog"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "platypus" #你的昵称
@@ -62,6 +62,6 @@ gittalk:
   # You must specify the website domain url in the Authorization callback URL field.
   clientID:Iv1.ce56f98f5ce99283# 改成你的 GitHub Application Client ID
   clientSecret:40b821ac119c4ebcf101474ce5f9c1c97df8e0c9   # 改成你的 GitHub Application Client Secret,
-  repository: lanxinag-gua.github.io  # 改成你的 Storage gittalk's repository
+  repository: lanxiang-gua.github.io # 改成你的 Storage gittalk's repository
   owner: lanxiang-gua  # 改成你的 GitHub repo owner,
   admin: lanxiang-gua  # 改成你的 GitHub repo owner and collaborators, only these guys can initialize github issues eg. 'colynn,daattali'
