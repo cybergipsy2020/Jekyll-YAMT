@@ -60,8 +60,8 @@ sass:
 gittalk:
   # Note: A GitHub Application is needed for authorization, if you don't have one, going to https://github.com/settings/applications/new register a new one.
   # You must specify the website domain url in the Authorization callback URL field.
-  clientID: Iv1.ce56f98f5ce99283# 改成你的 GitHub Application Client ID
-  clientSecret: 40b821ac119c4ebcf101474ce5f9c1c97df8e0c9   # 改成你的 GitHub Application Client Secret,
+  clientID:76cea09722b6daedf457# 改成你的 GitHub Application Client ID
+  clientSecret: c487de1bd0681a7755a91cee4a35651d1c399350   # 改成你的 GitHub Application Client Secret,
   repository: lanxiang-gua.github.io # 改成你的 Storage gittalk's repository
   owner: lanxiang-gua  # 改成你的 GitHub repo owner,
   admin: lanxiang-gua  # 改成你的 GitHub repo owner and collaborators, only these guys can initialize github issues eg. 'colynn,daattali'
