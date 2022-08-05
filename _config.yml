@@ -1,5 +1,5 @@
 # Site settings
-title: 第四纪地层 # 博客名称
+title: "第四纪地层" # 博客名称
 description: "碎碎念 Blog"
 url:  "https://lanxiang-gua.github.io/" # 博客地址
 baseurl: "lanxinag-gua.github.io/blog"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
